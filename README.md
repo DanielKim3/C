@@ -1,1 +1,1 @@
-MicroSoft Visual Stuudio 2019, c++
+MicroSoft Visual Studio 2019, c++
